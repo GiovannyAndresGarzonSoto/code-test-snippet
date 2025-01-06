@@ -1,8 +1,13 @@
 {
   "name": "ctest",
+  "author": "giovannygarzonsoto@gmail.com3",
   "displayName": "ctest",
   "description": "a simple block of testing",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GiovannyAndresGarzonSoto/code-test-snippet"
+  },
   "engines": {
     "vscode": "^1.96.0"
   },
