@@ -21,3 +21,7 @@ describe('My feature', () => {
     // Write your test here
   })
 })
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).

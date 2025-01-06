@@ -4,6 +4,7 @@
   "displayName": "ctest",
   "description": "a simple block of testing",
   "version": "0.0.1",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/GiovannyAndresGarzonSoto/code-test-snippet"
