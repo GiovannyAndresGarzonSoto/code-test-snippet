@@ -1,0 +1,13 @@
+{
+    "Describe and Test Block": {
+      "prefix": "ctest",
+      "body": [
+        "describe('$1', () => {",
+        "  test('$2', () => {",
+        "    $0",
+        "  })",
+        "})"
+      ],
+      "description": "Insert a describe and test block"
+    }
+  }
